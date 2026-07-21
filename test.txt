@@ -4,3 +4,6 @@ Hi
 
 branch
 this is branch 2
+
+
+conflict2
