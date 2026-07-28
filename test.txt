@@ -6,3 +6,4 @@ branch
 this is branch 2
 
 
+git diff test
